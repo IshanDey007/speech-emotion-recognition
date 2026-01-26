@@ -7,7 +7,6 @@
 
 An AI-powered system that analyzes customer emotions from speech to measure and improve customer satisfaction. Built with state-of-the-art deep learning models and a beautiful, intuitive interface.
 
-![Speech Emotion Recognition Demo](docs/images/demo.png)
 
 ## 🌟 Features
 
@@ -216,7 +215,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Ishan Dey - irock9431@gmail.com
+Ishan Dey - idey7188@gmail.com
 
 Project Link: [https://github.com/IshanDey007/speech-emotion-recognition](https://github.com/IshanDey007/speech-emotion-recognition)
 
